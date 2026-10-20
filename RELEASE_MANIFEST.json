@@ -1,0 +1,27 @@
+{
+  "publication_date": "2026-10-20",
+  "repository": "https://github.com/arinjaidas/behavioural-recessions-review",
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 2482,
+      "sha256": "2306b489a55328c6cbdef1c9fb6f68a7a9621f91f27adb44fa87b75ab49d4357"
+    },
+    {
+      "path": "docs/EDITION.md",
+      "bytes": 453,
+      "sha256": "3c0e59fc5e09d535941c4cba03bea977e4ec7303b52fd8b3b175f30cd6c7595c"
+    },
+    {
+      "path": "docs/REFERENCES.md",
+      "bytes": 787,
+      "sha256": "1adbb78fd7acd349645c679084c0bb7a6c14a957a23ef45f7b54d1855a1eea18"
+    },
+    {
+      "path": "docs/RESEARCH_DESIGN.md",
+      "bytes": 1046,
+      "sha256": "787795c07a50d12292b1a11860e8da11348632f2ee23dccd28a6cf5e6549e00a"
+    }
+  ],
+  "excludes": "This manifest excludes itself to avoid a recursive hash."
+}
